@@ -12,7 +12,6 @@ else
   puts("Number is bigger than 10")
 end
 
-
 #more conditions
 puts("Input a number!")
 number = gets.to_i
